@@ -24,7 +24,7 @@ Muchas gracias.
 2. [Ejercicio básico de Area de rectangulo](1Basico/Ej02_AreaRectangulo.md)
 3. [Ejercicio básico Signo numérico](1Basico/Ej03_SignoNumerico.md)
 4. [Ejercicio básico Calculadora Básica](1Basico/Ej04_CalculadoraBasica.md)
-5. [Ejercicio básico Conversión Temperatura]()
+5. [Ejercicio básico Conversión Temperatura](1Basico/Ej05_ConversionTemperatura.md)
 
 ##***Ejercicios Intermedios:*
 6. []()
