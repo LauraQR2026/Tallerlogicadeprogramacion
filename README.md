@@ -4,7 +4,8 @@
 - **Ficha:** 3601847
 - **Programa:** Tecnólogo en Análisis y desarrollo de software. 
 - **Fecha de entrega:** 13/11/2026
-- **Herramienta utilizada:** Pseint
+- **Instructor:** Diego Casallas.
+- **Herramienta utilizada:** Pseint.
 
 ---
 
