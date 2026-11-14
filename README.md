@@ -36,4 +36,4 @@ Muchas gracias.
 10. [Ejercicio Intermedio Sistema Login](2Intermedio/Ej10_SistemaLogin.md)
 
 ##Diagramas
-1. [Diagramas]()
+1. [Diagramas](4Diagramas)
