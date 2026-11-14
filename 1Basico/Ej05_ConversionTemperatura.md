@@ -1,4 +1,6 @@
-#5 Conversión Temperatura
+# 5 Conversión Temperatura
+
+**Objetivo:** Transformación directa de Celsius a grados Fahrenheit.
 
  ```psc
 Algoritmo ConversionTemperatura
