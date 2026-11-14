@@ -1,4 +1,6 @@
-#4 Calculadora basica
+# 4 Calculadora basica
+
+**Objetivo:** Operaciones aritméticas con validación de división por cero.
 
  ```psc
 Algoritmo CalculadoraBasica
