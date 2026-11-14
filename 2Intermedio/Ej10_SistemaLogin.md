@@ -1,4 +1,6 @@
-#10 Sistema Login
+# 10 Sistema Login
+
+**Objetivo:** Validación de clave con límite de 3 intentos.
 
  ```psc
 Algoritmo SistemaLogin
