@@ -27,7 +27,7 @@ Muchas gracias.
 5. [Ejercicio básico Conversión Temperatura](1Basico/Ej05_ConversionTemperatura.md)
 
 ##***Ejercicios Intermedios:*
-6. [Ejercicio Intermedio Suma de Números Pares]()
+6. [Ejercicio Intermedio Suma de Números Pares](2Intermedio/Ej06_SumaNumerosPares.md)
 7. [Ejercicio Intermedio Factorial de N]()
 8. [Ejercicio Intermedio Conteo de Vocales]()
 9. [Ejercicio Intermedio Serie Fibonacci]()
