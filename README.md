@@ -30,5 +30,5 @@ Muchas gracias.
 6. [Ejercicio Intermedio Suma de Números Pares](2Intermedio/Ej06_SumaNumerosPares.md)
 7. [Ejercicio Intermedio Factorial de N](2Intermedio/Ej07_FactorialdeN.md)
 8. [Ejercicio Intermedio Conteo de Vocales](2Intermedio/Ej08_ConteodeVocales.md)
-9. [Ejercicio Intermedio Serie Fibonacci]()
+9. [Ejercicio Intermedio Serie Fibonacci](2Intermedio/Ej09_SerieFibonacci.md)
 10. [Ejercicio Intermedio Sistema Login]()
