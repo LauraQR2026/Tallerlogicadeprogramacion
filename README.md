@@ -19,4 +19,4 @@ Muchas gracias.
 ---
 
 ## 📑 Tabla de Contenido
-
+1. [Calcular el promedio de tres notas]()
