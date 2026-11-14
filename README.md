@@ -1,14 +1,14 @@
 # Taller-logica-de-programacion
 
-**Nombre:** Laura Vanessa Quintero Rojas.
-**Ficha:** 3601847
-**Programa:** ADSO
-**Fecha de entrega:** 13/11/2026
-**Herramienta utilizada:** Pseint
+- **Nombre:** Laura Vanessa Quintero Rojas.
+- **Ficha:** 3601847
+- **Programa:** Tecnólogo en Análisis y desarrollo de software. 
+- **Fecha de entrega:** 13/11/2026
+- **Herramienta utilizada:** Pseint
 
 ---
 
-##Cordial saludo, 
+#Cordial saludo, 
 
 Por medio de este repositorio hago entrega de las actividades del Taller 2 de Lógica de programación, cuyas actividades se clasifican en tres niveles, los cuales son: 
 - **Nivel Basico.**
@@ -34,3 +34,6 @@ Muchas gracias.
 8. [Ejercicio Intermedio Conteo de Vocales](2Intermedio/Ej08_ConteodeVocales.md)
 9. [Ejercicio Intermedio Serie Fibonacci](2Intermedio/Ej09_SerieFibonacci.md)
 10. [Ejercicio Intermedio Sistema Login](2Intermedio/Ej10_SistemaLogin.md)
+
+##Diagramas
+1. [Diagramas]()
