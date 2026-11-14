@@ -1,4 +1,6 @@
-#8 Conteo de vocales
+# 8 Conteo de vocales
+
+**Objetivo:** Recorrido de texto y contador vocálico acumulado.
 
  ```psc
 Algoritmo ConteodeVocales
