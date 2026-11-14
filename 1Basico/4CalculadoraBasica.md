@@ -1,3 +1,6 @@
+#4 Calculadora basica
+
+ ```psc
 Algoritmo CalculadoraBasica
 	Definir n1, n2 Como Real
 	Definir Opcional Como Entero
@@ -9,7 +12,7 @@ Algoritmo CalculadoraBasica
 	Opcional <- 0 
 	
 	Escribir ".... CALCULADORA BASICA ...."
-	Escribir "Ingrese 2 números: "; Leer n1; Leer n2
+	Escribir "Ingrese 2 nÃºmeros: "; Leer n1; Leer n2
 	Escribir "... OPCIONES ..."
 	Escribir "1. - SUMAR"
 	Escribir "2. - RESTAR"
@@ -35,5 +38,6 @@ Algoritmo CalculadoraBasica
 			Escribir "ERROR"
 	FinSegun
 	
-	Escribir "El resultado de la operación es: ", Resultado
+	Escribir "El resultado de la operaciÃ³n es: ", Resultado
 FinAlgoritmo
+ ```
