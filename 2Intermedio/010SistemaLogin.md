@@ -1,3 +1,6 @@
+#6 Sistema Login
+
+ ```psc
 Algoritmo SistemaLogin
 	Definir Sesion, Intentos Como Entero
 	Definir Usuario, Contrasena Como Caracter
@@ -7,7 +10,7 @@ Algoritmo SistemaLogin
 	Mientras (Intentos <3 y Sesion ==0) Hacer
 		Escribir "... Ingrese su usuario ..."
 		Leer Usuario
-		Escribir "... Ingrese la contraseña ..."
+		Escribir "... Ingrese la contraseÃ±a ..."
 		Leer Contrasena 
 		
 		Si Usuario == "admin" Entonces
@@ -15,7 +18,7 @@ Algoritmo SistemaLogin
 				Escribir "--- BIENVENIDO AL SISTEMA ---"
 				Sesion <- 1 
 			SiNo
-				Escribir "La contraseña es incorrecta"
+				Escribir "La contraseÃ±a es incorrecta"
 				Intentos <- Intentos + 1
 				Escribir "Oprima la tecla ENTER para volver a intentarlo"
 				Esperar Tecla
@@ -30,6 +33,7 @@ Algoritmo SistemaLogin
 		FinSi
 	FinMientras
 	si Intentos == 3 Entonces
-		Escribir "Usuario bloqueado, utilizó 3 intentos."
+		Escribir "Usuario bloqueado, utilizÃ³ 3 intentos."
 	FinSi	
 FinAlgoritmo
+ ```
