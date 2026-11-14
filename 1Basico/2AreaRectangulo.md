@@ -1,4 +1,4 @@
-#Area de rectangulo
+#2Area de rectangulo
 
  ```psc
 Algoritmo AreaRectangulo
