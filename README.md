@@ -8,7 +8,7 @@
 
 ---
 
-#Cordial saludo, 
+# Cordial saludo, 
 
 Por medio de este repositorio hago entrega de las actividades del Taller 2 de Lógica de programación, cuyas actividades se clasifican en tres niveles, los cuales son: 
 - **Nivel Basico.**
@@ -35,5 +35,5 @@ Muchas gracias.
 9. [Ejercicio Intermedio Serie Fibonacci](2Intermedio/Ej09_SerieFibonacci.md)
 10. [Ejercicio Intermedio Sistema Login](2Intermedio/Ej10_SistemaLogin.md)
 
-##Diagramas
+## 🛠️**Diagramas:**
 1. [Diagramas](4Diagramas)
