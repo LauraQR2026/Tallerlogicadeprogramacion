@@ -1,4 +1,6 @@
-#2 Área de rectángulo
+# 2 Área de rectángulo
+
+**Objetivo:** Cálculo explícito de área y perímetro desde base y altura.
 
  ```psc
 Algoritmo AreaRectangulo
