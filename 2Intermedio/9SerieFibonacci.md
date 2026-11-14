@@ -1,3 +1,6 @@
+#9 Serie de Fibonacci
+
+ ```psc
 Algoritmo SerieFibonacci
 	Definir N, i, a, b, c Como Entero
 	
@@ -5,7 +8,7 @@ Algoritmo SerieFibonacci
 	Leer N
 	
 	Si N <= 0 Entonces
-		Escribir "ERROR. Debe ingresar un número positivo."
+		Escribir "ERROR. Debe ingresar un nÃºmero positivo."
 	SiNo
 		a <- 0
 		b <- 1
@@ -20,3 +23,4 @@ Algoritmo SerieFibonacci
 	Escribir ""
 FinSi
 FinAlgoritmo
+ ```
