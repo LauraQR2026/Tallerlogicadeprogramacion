@@ -1,4 +1,6 @@
-#9 Serie de Fibonacci
+# 9 Serie de Fibonacci
+
+**Objetivo:** Generación secuencial de N términos numéricos.
 
  ```psc
 Algoritmo SerieFibonacci
