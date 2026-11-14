@@ -1,4 +1,4 @@
-#3Signo Numerico
+#3 Signo Numérico
 
  ```psc
 Algoritmo SignoNumerico
