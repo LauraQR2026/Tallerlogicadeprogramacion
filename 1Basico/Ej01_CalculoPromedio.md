@@ -1,4 +1,4 @@
-#1 Promedio de Notas
+#1 Calculo de Promedio
 
  ```psc
 Algoritmo PromedioNotas
