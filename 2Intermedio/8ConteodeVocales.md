@@ -1,3 +1,6 @@
+#8 Conteo de vocales
+
+ ```psc
 Algoritmo ConteodeVocales
 	Definir ContA, ContE, ContI, ContO, ContU, Len, i Como Entero
 	Definir Frase, CV Como Caracter
@@ -35,3 +38,4 @@ Algoritmo ConteodeVocales
 	Escribir "Total de O: ", ContO
 	Escribir "Total de U: ", ContU
 FinAlgoritmo
+ ```
