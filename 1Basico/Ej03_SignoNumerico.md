@@ -1,4 +1,6 @@
-#3 Signo Numérico
+# 3 Signo Numérico
+
+**Objetivo:** Clasificación de entero en positivo, negativo o cero.
 
  ```psc
 Algoritmo SignoNumerico
