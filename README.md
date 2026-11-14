@@ -19,5 +19,6 @@ Muchas gracias.
 ---
 
 ## 📑 Tabla de Contenido
-1. (1Basico/Ej01_CalculoPromedio.md)
+##**Ejercicios Basicos:**
+1. [Ejercicio básico de Calculo de Promedio](1Basico/Ej01_CalculoPromedio.md)
 2. 
