@@ -21,4 +21,14 @@ Muchas gracias.
 ## 📑 Tabla de Contenido
 ##**Ejercicios Basicos:**
 1. [Ejercicio básico de Calculo de Promedio](1Basico/Ej01_CalculoPromedio.md)
-2. 
+2. [Ejercicio básico de Area de rectangulo](1Basico/Ej02_AreaRectangulo.md)
+3. [Ejercicio básico Signo numérico]()
+4. [Ejercicio básico Calculadora Básica]()
+5. [Ejercicio básico Conversión Temperatura]()
+
+##***Ejercicios Intermedios:*
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
