@@ -1,4 +1,6 @@
-#7 Factorial de N
+# 7 Factorial de N
+
+**Objetivo:** Cálculo iterativo factorial de número positivo.
 
  ```psc
 Algoritmo FactorialdeN
