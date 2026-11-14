@@ -1,4 +1,6 @@
-#6 Suma Números pares
+# 6 Suma Números pares
+
+**Objetivo:** Acumulador de números pares del rango 1 a N.
 
  ```psc
 Algoritmo SumaNumerosPares
