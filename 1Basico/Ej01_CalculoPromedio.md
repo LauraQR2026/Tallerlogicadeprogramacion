@@ -1,4 +1,6 @@
-#1 Calculo de Promedio
+# 1 Calculo de Promedio
+
+**Objetivo:** Lectura de 3 notas y procesamiento de media ponderada.
 
  ```psc
 Algoritmo PromedioNotas
