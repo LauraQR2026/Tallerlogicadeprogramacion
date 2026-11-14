@@ -1,6 +1,8 @@
 # Taller-logica-de-programacion
 
 **Nombre:** Laura Vanessa Quintero Rojas.
+**Ficha:** 3601847
+**Programa:** ADSO
 **Fecha de entrega:** 13/11/2026
 **Herramienta utilizada:** Pseint
 
@@ -19,14 +21,14 @@ Muchas gracias.
 ---
 
 ## 📑 Tabla de Contenido
-##**Ejercicios Basicos:**
+## ✅**Ejercicios Basicos:**
 1. [Ejercicio básico de Calculo de Promedio](1Basico/Ej01_CalculoPromedio.md)
 2. [Ejercicio básico de Area de rectangulo](1Basico/Ej02_AreaRectangulo.md)
 3. [Ejercicio básico Signo numérico](1Basico/Ej03_SignoNumerico.md)
 4. [Ejercicio básico Calculadora Básica](1Basico/Ej04_CalculadoraBasica.md)
 5. [Ejercicio básico Conversión Temperatura](1Basico/Ej05_ConversionTemperatura.md)
 
-## ✅***Ejercicios Intermedios:**
+## ✅**Ejercicios Intermedios:**
 6. [Ejercicio Intermedio Suma de Números Pares](2Intermedio/Ej06_SumaNumerosPares.md)
 7. [Ejercicio Intermedio Factorial de N](2Intermedio/Ej07_FactorialdeN.md)
 8. [Ejercicio Intermedio Conteo de Vocales](2Intermedio/Ej08_ConteodeVocales.md)
