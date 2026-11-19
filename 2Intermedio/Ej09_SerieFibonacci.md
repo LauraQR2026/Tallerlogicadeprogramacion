@@ -1,3 +1,8 @@
+# 9 Serie de Fibonacci
+
+**Objetivo:** Generación secuencial de N términos numéricos.
+
+ ```psc
 Algoritmo SerieFibonacci
 	Definir N, i, a, b, c Como Entero
 	
@@ -5,7 +10,7 @@ Algoritmo SerieFibonacci
 	Leer N
 	
 	Si N <= 0 Entonces
-		Escribir "ERROR. Debe ingresar un n�mero positivo."
+		Escribir "ERROR. Debe ingresar un número positivo."
 	SiNo
 		a <- 0
 		b <- 1
@@ -20,3 +25,4 @@ Algoritmo SerieFibonacci
 	Escribir ""
 FinSi
 FinAlgoritmo
+ ```

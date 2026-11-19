@@ -1,3 +1,8 @@
+# 5 Conversión Temperatura
+
+**Objetivo:** Transformación directa de Celsius a grados Fahrenheit.
+
+ ```psc
 Algoritmo ConversionTemperatura
 	Definir Tem1, Tem2, Celsius, Respuesta Como Real
 	Tem1 <- 1.8
@@ -7,3 +12,4 @@ Algoritmo ConversionTemperatura
 	Respuesta <- Celsius * Tem1 + Tem2
 	Escribir "El resultado en grados Fahrenheit es de: ", Respuesta
 FinAlgoritmo
+ ```

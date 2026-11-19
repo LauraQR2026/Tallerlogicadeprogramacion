@@ -1,3 +1,8 @@
+# 10 Sistema Login
+
+**Objetivo:** Validaci√≥n de clave con l√≠mite de 3 intentos.
+
+ ```psc
 Algoritmo SistemaLogin
 	Definir Sesion, Intentos Como Entero
 	Definir Usuario, Contrasena Como Caracter
@@ -7,7 +12,7 @@ Algoritmo SistemaLogin
 	Mientras (Intentos <3 y Sesion ==0) Hacer
 		Escribir "... Ingrese su usuario ..."
 		Leer Usuario
-		Escribir "... Ingrese la contraseÒa ..."
+		Escribir "... Ingrese la contrase√±a ..."
 		Leer Contrasena 
 		
 		Si Usuario == "admin" Entonces
@@ -15,7 +20,7 @@ Algoritmo SistemaLogin
 				Escribir "--- BIENVENIDO AL SISTEMA ---"
 				Sesion <- 1 
 			SiNo
-				Escribir "La contraseÒa es incorrecta"
+				Escribir "La contrase√±a es incorrecta"
 				Intentos <- Intentos + 1
 				Escribir "Oprima la tecla ENTER para volver a intentarlo"
 				Esperar Tecla
@@ -30,6 +35,7 @@ Algoritmo SistemaLogin
 		FinSi
 	FinMientras
 	si Intentos == 3 Entonces
-		Escribir "Usuario bloqueado, utilizÛ 3 intentos."
+		Escribir "Usuario bloqueado, utiliz√≥ 3 intentos."
 	FinSi	
 FinAlgoritmo
+ ```

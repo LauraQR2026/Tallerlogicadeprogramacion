@@ -1,3 +1,8 @@
+# 8 Conteo de vocales
+
+**Objetivo:** Recorrido de texto y contador vocálico acumulado.
+
+ ```psc
 Algoritmo ConteodeVocales
 	Definir ContA, ContE, ContI, ContO, ContU, Len, i Como Entero
 	Definir Frase, CV Como Caracter
@@ -35,3 +40,4 @@ Algoritmo ConteodeVocales
 	Escribir "Total de O: ", ContO
 	Escribir "Total de U: ", ContU
 FinAlgoritmo
+ ```

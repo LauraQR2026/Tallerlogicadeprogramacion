@@ -1,3 +1,8 @@
+# 1 Calculo de Promedio
+
+**Objetivo:** Lectura de 3 notas y procesamiento de media ponderada.
+
+ ```psc
 Algoritmo PromedioNotas
 	Definir nota1, nota2, nota3 Como Real
 	Definir P1, P2, P3 Como Real
@@ -24,3 +29,4 @@ Algoritmo PromedioNotas
 		Escribir 'Reprobado'
 	FinSi
 FinAlgoritmo
+ ```
